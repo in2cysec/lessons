@@ -13,7 +13,7 @@
 
 ---
 
-# <mark>The next two sections are HIGHLY ILLEGAL and we do not recommend participating in any of the actions. It is purely for educational purposes only.<mark>
+# <mark>The next sections are HIGHLY ILLEGAL and we do not recommend participating in any of the actions. It is purely for educational purposes only.<mark>
 
 ## How is software kept safe?
 
